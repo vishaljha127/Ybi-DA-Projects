@@ -1,2 +1,2 @@
 # Ybi-DA-Projects
-include all codes and project description
+includes the jupyter notebook of Car price Prediction and project description
